@@ -1,4 +1,4 @@
-# 🎁 HTTP/S PROXIES & SOCKS4/5
+# HTTP/S PROXIES & SOCKS4/5
 
 ## About this
 These proxies were scrapped by uProxy Tool and tested by UNFX Proxy Checker
@@ -7,8 +7,17 @@ These proxies were scrapped by uProxy Tool and tested by UNFX Proxy Checker
 
 IP:PORT
 
-HTTPS: [**RAW**](https://raw.githubusercontent.com/Daesrock/Proxy/main/https.txt)
+```bash
+# HTTP/S
+https://raw.githubusercontent.com/Daesrock/Proxy/main/https.txt
+```
 
-SOCKS4: [**RAW**](https://raw.githubusercontent.com/Daesrock/Proxy/main/socks4.txt)
+```bash
+# SOCKS4
+https://raw.githubusercontent.com/Daesrock/Proxy/main/socks4.txt
+```
 
-SOCKS5: [**RAW**](https://raw.githubusercontent.com/Daesrock/Proxy/main/socks5.txt)
+```bash
+# SOCKS5
+https://raw.githubusercontent.com/Daesrock/Proxy/main/socks5.txt
+```
